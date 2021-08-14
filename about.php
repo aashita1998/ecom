@@ -16,6 +16,7 @@ include("includes/main.php");
         <span class="nero__bold">About</span> us
       </div>
       <p class="nero__text">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean dictum, urna ut tincidunt ullamcorper, dolor urna eleifend ante, quis tristique mi elit vitae orci. Integer eu lorem eget leo tincidunt iaculis at non leo. Nulla commodo et sapien in commodo. Vestibulum commodo sed sem non sollicitudin.
       </p>
     </div>
   </main>
